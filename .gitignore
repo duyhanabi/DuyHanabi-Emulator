@@ -1,0 +1,2 @@
+# Release binaries are uploaded as GitHub Release assets, not committed to Git.
+/release-assets/
